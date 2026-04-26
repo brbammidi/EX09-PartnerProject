@@ -9,6 +9,7 @@ layout: default
 <img src="static/imgs/ex09pic1.png" alt="Bar Chart. "  width="500"/>
 <br>
 <img src="static/imgs/ex09pic2.png" alt="Scatter Plot"  width="500"/>
+<br>
 <img src="static/imgs/ex09pic3.png" alt="Bar Chart With STDV"  width="500"/>
 
 ## What Does The Data Say?
